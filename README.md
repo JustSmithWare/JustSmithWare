@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @JustSmithWare
-- 👀 I’m interested in building progressive web apps
-- 🌱 I’m currently learning ionic, angular, typescript
-- 💞️ I’m looking to collaborate on any project really
+- 👋 Hi, I’m @AntonioBer
+- 👀 I’m interested in Machine Learning Research and Engineering.
+- 💼 I’m currently working as a ML Engineer at Airtrace.
 - 📫 How to reach me: antonioayllonber@gmail.com
-
-<!---
-JustSmithWare/JustSmithWare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
